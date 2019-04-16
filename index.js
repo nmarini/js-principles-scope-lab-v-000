@@ -1,5 +1,5 @@
 var customerName = "bob"
 
-upperCaseCustomerName {
+upperCaseCustomerName() {
   customerName.toUpperCase()
 }
